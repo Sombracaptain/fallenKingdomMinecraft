@@ -1,0 +1,33 @@
+{
+  "uuid": "dd52a2af-64c0-38c4-9f78-eaff8117b752",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "1327c0b7-097d-4bf9-b83e-7c54eff21e78",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 3,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 6,
+    "totalPvPBattleVictoryCount": 2,
+    "totalPvWBattleVictoryCount": 4,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "fairy": 1,
+      "bug": 1,
+      "water": 1,
+      "normal": 1,
+      "flying": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:zubat": 1,
+      "cobblemon:slowpoke": 1
+    },
+    "aspectsCollected": {}
+  }
+}

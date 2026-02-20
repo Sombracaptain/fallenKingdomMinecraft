@@ -1,0 +1,228 @@
+{
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2026-02-19 22:30:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-02-19 22:30:21 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2026-02-19 22:30:55 -0500"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2026-02-19 22:30:22 -0500"
+    },
+    "done": true
+  },
+  "camping:main/root": {
+    "criteria": {
+      "bags": "2026-02-19 22:30:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2026-02-19 22:31:04 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_orange": {
+    "criteria": {
+      "has_item": "2026-02-19 22:30:55 -0500"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "oat": "2026-02-19 22:30:21 -0500",
+      "wild_strawberry": "2026-02-19 22:30:21 -0500",
+      "corn": "2026-02-19 22:30:21 -0500",
+      "onion": "2026-02-19 22:30:21 -0500",
+      "wild_corn": "2026-02-19 22:30:21 -0500",
+      "wild_ribwort": "2026-02-19 22:30:21 -0500",
+      "strawberry": "2026-02-19 22:30:21 -0500",
+      "wild_nettle": "2026-02-19 22:30:21 -0500",
+      "barley": "2026-02-19 22:30:21 -0500",
+      "tomato": "2026-02-19 22:30:21 -0500",
+      "lettuce": "2026-02-19 22:30:21 -0500",
+      "wild_lettuce": "2026-02-19 22:30:21 -0500",
+      "wild_tomatoes": "2026-02-19 22:30:21 -0500",
+      "oat_seeds": "2026-02-19 22:30:21 -0500",
+      "tomato_seeds": "2026-02-19 22:30:21 -0500",
+      "barley_seeds": "2026-02-19 22:30:21 -0500",
+      "strawberry_seeds": "2026-02-19 22:30:21 -0500",
+      "lettuce_seeds": "2026-02-19 22:30:21 -0500",
+      "kernels": "2026-02-19 22:30:21 -0500",
+      "wild_barley": "2026-02-19 22:30:21 -0500",
+      "wild_onion": "2026-02-19 22:30:21 -0500",
+      "wild_oat": "2026-02-19 22:30:21 -0500"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/chainmail_helmet2": {
+    "criteria": {
+      "has_wheat_seeds": "2026-02-19 22:30:45 -0500"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2026-02-19 22:30:55 -0500"
+    },
+    "done": true
+  },
+  "meadow:main/root": {
+    "criteria": {
+      "seeds": "2026-02-19 22:30:21 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2026-02-19 22:30:58 -0500"
+    },
+    "done": true
+  },
+  "sleepy_hollows:main/root": {
+    "criteria": {
+      "example_criterion": "2026-02-19 22:30:22 -0500"
+    },
+    "done": true
+  },
+  "herbalbrews:main/root": {
+    "criteria": {
+      "seeds": "2026-02-19 22:30:21 -0500"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2026-02-19 22:30:21 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_blue": {
+    "criteria": {
+      "has_item": "2026-02-19 22:30:58 -0500"
+    },
+    "done": true
+  },
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2026-02-19 22:30:21 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/orange_shiny_flower": {
+    "criteria": {
+      "has_item": "2026-02-19 22:30:55 -0500"
+    },
+    "done": true
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2026-02-19 22:30:21 -0500"
+    },
+    "done": true
+  },
+  "brewery:main/wild_crops": {
+    "criteria": {
+      "hops_seeds": "2026-02-19 22:30:42 -0500"
+    },
+    "done": false
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2026-02-19 22:30:55 -0500"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2026-02-19 22:30:21 -0500"
+    },
+    "done": true
+  },
+  "more_rpg_content:root": {
+    "criteria": {
+      "always": "2026-02-19 22:30:21 -0500"
+    },
+    "done": true
+  },
+  "beachparty:main/root": {
+    "criteria": {
+      "example_criterion": "2026-02-19 22:30:22 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_orange_double": {
+    "criteria": {
+      "has_item": "2026-02-19 22:30:53 -0500"
+    },
+    "done": true
+  },
+  "loot_n_explore:root": {
+    "criteria": {
+      "always": "2026-02-19 22:30:21 -0500"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-02-19 22:30:21 -0500"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2026-02-19 22:30:22 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-02-19 22:30:21 -0500"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2026-02-19 22:30:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_taiga": "2026-02-19 22:30:22 -0500"
+    },
+    "done": false
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "double_flower": "2026-02-19 22:30:53 -0500"
+    },
+    "done": true
+  },
+  "candlelight:main/root": {
+    "criteria": {
+      "seeds": "2026-02-19 22:30:21 -0500"
+    },
+    "done": true
+  },
+  "tide:recipes/misc/bait": {
+    "criteria": {
+      "has_seeds": "2026-02-19 22:30:42 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

@@ -1,0 +1,337 @@
+{
+  "knightquest:recipes/misc/skeleton_chestplate": {
+    "criteria": {
+      "has_bone": "2026-02-19 21:25:50 -0500"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bow_chestplate": {
+    "criteria": {
+      "has_arrow": "2026-02-19 21:25:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-02-19 21:25:07 -0500"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/wither_leggings": {
+    "criteria": {
+      "has_bone": "2026-02-19 21:25:50 -0500"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bow_helmet": {
+    "criteria": {
+      "has_arrow": "2026-02-19 21:25:50 -0500"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/wither_chestplate": {
+    "criteria": {
+      "has_bone": "2026-02-19 21:25:50 -0500"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_helmet": {
+    "criteria": {
+      "has_rotten_flesh": "2026-02-19 21:26:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2026-02-19 21:25:51 -0500"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2026-02-19 21:25:08 -0500"
+    },
+    "done": true
+  },
+  "camping:main/root": {
+    "criteria": {
+      "bags": "2026-02-19 21:25:07 -0500"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "oat": "2026-02-19 21:25:07 -0500",
+      "wild_strawberry": "2026-02-19 21:25:07 -0500",
+      "corn": "2026-02-19 21:25:07 -0500",
+      "onion": "2026-02-19 21:25:07 -0500",
+      "wild_corn": "2026-02-19 21:25:07 -0500",
+      "wild_ribwort": "2026-02-19 21:25:07 -0500",
+      "strawberry": "2026-02-19 21:25:07 -0500",
+      "wild_nettle": "2026-02-19 21:25:07 -0500",
+      "barley": "2026-02-19 21:25:07 -0500",
+      "tomato": "2026-02-19 21:25:07 -0500",
+      "lettuce": "2026-02-19 21:25:07 -0500",
+      "wild_lettuce": "2026-02-19 21:25:07 -0500",
+      "wild_tomatoes": "2026-02-19 21:25:07 -0500",
+      "oat_seeds": "2026-02-19 21:25:07 -0500",
+      "tomato_seeds": "2026-02-19 21:25:07 -0500",
+      "barley_seeds": "2026-02-19 21:25:07 -0500",
+      "strawberry_seeds": "2026-02-19 21:25:07 -0500",
+      "lettuce_seeds": "2026-02-19 21:25:07 -0500",
+      "kernels": "2026-02-19 21:25:07 -0500",
+      "wild_barley": "2026-02-19 21:25:07 -0500",
+      "wild_onion": "2026-02-19 21:25:07 -0500",
+      "wild_oat": "2026-02-19 21:25:07 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2026-02-19 21:26:56 -0500"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_rod": {
+    "criteria": {
+      "has_item": "2026-02-19 21:25:50 -0500"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bow_boots": {
+    "criteria": {
+      "has_arrow": "2026-02-19 21:25:50 -0500"
+    },
+    "done": true
+  },
+  "meadow:main/root": {
+    "criteria": {
+      "seeds": "2026-02-19 21:25:07 -0500"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_helmet2": {
+    "criteria": {
+      "has_rotten_flesh": "2026-02-19 21:26:56 -0500"
+    },
+    "done": true
+  },
+  "sleepy_hollows:main/root": {
+    "criteria": {
+      "example_criterion": "2026-02-19 21:25:08 -0500"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/pirate_boots": {
+    "criteria": {
+      "has_bone": "2026-02-19 21:25:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2026-02-19 21:25:50 -0500"
+    },
+    "done": true
+  },
+  "herbalbrews:main/root": {
+    "criteria": {
+      "seeds": "2026-02-19 21:25:07 -0500"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2026-02-19 21:25:07 -0500"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skeleton_boots": {
+    "criteria": {
+      "has_bone": "2026-02-19 21:25:50 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2026-02-19 21:25:50 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2026-02-19 21:26:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2026-02-19 21:25:49 -0500"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/wither_helmet": {
+    "criteria": {
+      "has_bone": "2026-02-19 21:25:50 -0500"
+    },
+    "done": true
+  },
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2026-02-19 21:25:07 -0500"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/wither_boots": {
+    "criteria": {
+      "has_bone": "2026-02-19 21:25:50 -0500"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_leggings": {
+    "criteria": {
+      "has_rotten_flesh": "2026-02-19 21:26:56 -0500"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/pirate_helmet": {
+    "criteria": {
+      "has_bone": "2026-02-19 21:25:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2026-02-19 21:25:49 -0500",
+      "minecraft:zombie": "2026-02-19 21:26:39 -0500"
+    },
+    "done": false
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2026-02-19 21:25:07 -0500"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skeleton_helmet": {
+    "criteria": {
+      "has_bone": "2026-02-19 21:25:50 -0500"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/pirate_chestplate": {
+    "criteria": {
+      "has_bone": "2026-02-19 21:25:50 -0500"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bow_leggings": {
+    "criteria": {
+      "has_arrow": "2026-02-19 21:25:50 -0500"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skeleton_leggings": {
+    "criteria": {
+      "has_bone": "2026-02-19 21:25:50 -0500"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2026-02-19 21:25:07 -0500"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_boots": {
+    "criteria": {
+      "has_rotten_flesh": "2026-02-19 21:26:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-02-19 21:25:49 -0500"
+    },
+    "done": true
+  },
+  "more_rpg_content:root": {
+    "criteria": {
+      "always": "2026-02-19 21:25:07 -0500"
+    },
+    "done": true
+  },
+  "beachparty:main/root": {
+    "criteria": {
+      "example_criterion": "2026-02-19 21:25:08 -0500"
+    },
+    "done": true
+  },
+  "loot_n_explore:root": {
+    "criteria": {
+      "always": "2026-02-19 21:25:07 -0500"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/pirate_leggings": {
+    "criteria": {
+      "has_bone": "2026-02-19 21:25:50 -0500"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_fence": {
+    "criteria": {
+      "has_item": "2026-02-19 21:25:50 -0500"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-02-19 21:25:07 -0500"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2026-02-19 21:25:08 -0500"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_chestplate": {
+    "criteria": {
+      "has_rotten_flesh": "2026-02-19 21:26:56 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-02-19 21:25:07 -0500"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2026-02-19 21:25:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_taiga": "2026-02-19 21:25:08 -0500"
+    },
+    "done": false
+  },
+  "candlelight:main/root": {
+    "criteria": {
+      "seeds": "2026-02-19 21:25:07 -0500"
+    },
+    "done": true
+  },
+  "tide:recipes/misc/bait": {
+    "criteria": {
+      "has_rotten_flesh": "2026-02-19 21:26:56 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

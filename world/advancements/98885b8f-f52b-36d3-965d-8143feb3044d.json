@@ -1,0 +1,289 @@
+{
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2026-02-20 01:00:41 -0500"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2026-02-20 01:00:41 -0500"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2026-02-20 01:00:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-02-20 00:58:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2026-02-20 01:00:41 -0500"
+    },
+    "done": true
+  },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2026-02-20 01:00:05 -0500"
+    },
+    "done": true
+  },
+  "mysticsbiomes:mysticsbiomes/root": {
+    "criteria": {
+      "bamboo_blossom_forest": "2026-02-20 01:00:41 -0500"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2026-02-20 00:58:46 -0500"
+    },
+    "done": true
+  },
+  "camping:main/root": {
+    "criteria": {
+      "bags": "2026-02-20 00:58:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2026-02-20 01:00:41 -0500"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "oat": "2026-02-20 00:58:45 -0500",
+      "wild_strawberry": "2026-02-20 00:58:45 -0500",
+      "corn": "2026-02-20 00:58:45 -0500",
+      "onion": "2026-02-20 00:58:45 -0500",
+      "wild_corn": "2026-02-20 00:58:45 -0500",
+      "wild_ribwort": "2026-02-20 00:58:45 -0500",
+      "strawberry": "2026-02-20 00:58:45 -0500",
+      "wild_nettle": "2026-02-20 00:58:45 -0500",
+      "barley": "2026-02-20 00:58:45 -0500",
+      "tomato": "2026-02-20 00:58:45 -0500",
+      "lettuce": "2026-02-20 00:58:45 -0500",
+      "wild_lettuce": "2026-02-20 00:58:45 -0500",
+      "wild_tomatoes": "2026-02-20 00:58:45 -0500",
+      "oat_seeds": "2026-02-20 00:58:45 -0500",
+      "tomato_seeds": "2026-02-20 00:58:45 -0500",
+      "barley_seeds": "2026-02-20 00:58:45 -0500",
+      "strawberry_seeds": "2026-02-20 00:58:45 -0500",
+      "lettuce_seeds": "2026-02-20 00:58:45 -0500",
+      "kernels": "2026-02-20 00:58:45 -0500",
+      "wild_barley": "2026-02-20 00:58:45 -0500",
+      "wild_onion": "2026-02-20 00:58:45 -0500",
+      "wild_oat": "2026-02-20 00:58:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2026-02-20 01:00:41 -0500"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/chainmail_helmet2": {
+    "criteria": {
+      "has_wheat_seeds": "2026-02-20 01:00:47 -0500"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/tropical_boat": {
+    "criteria": {
+      "in_water": "2026-02-20 01:00:41 -0500"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/pale_oak_boat": {
+    "criteria": {
+      "in_water": "2026-02-20 01:00:41 -0500"
+    },
+    "done": true
+  },
+  "meadow:main/root": {
+    "criteria": {
+      "seeds": "2026-02-20 00:58:45 -0500"
+    },
+    "done": true
+  },
+  "sleepy_hollows:main/root": {
+    "criteria": {
+      "example_criterion": "2026-02-20 00:58:46 -0500"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/peach_boat": {
+    "criteria": {
+      "in_water": "2026-02-20 01:00:41 -0500"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2026-02-20 01:00:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2026-02-20 01:00:41 -0500"
+    },
+    "done": true
+  },
+  "herbalbrews:main/root": {
+    "criteria": {
+      "seeds": "2026-02-20 00:58:45 -0500"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2026-02-20 00:58:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-02-20 01:00:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2026-02-20 01:00:41 -0500"
+    },
+    "done": true
+  },
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2026-02-20 00:58:45 -0500"
+    },
+    "done": true
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2026-02-20 00:58:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2026-02-20 01:00:41 -0500"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/strawberry_boat": {
+    "criteria": {
+      "in_water": "2026-02-20 01:00:41 -0500"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2026-02-20 00:58:45 -0500"
+    },
+    "done": true
+  },
+  "more_rpg_content:root": {
+    "criteria": {
+      "always": "2026-02-20 00:58:45 -0500"
+    },
+    "done": true
+  },
+  "beachparty:main/root": {
+    "criteria": {
+      "example_criterion": "2026-02-20 00:58:46 -0500"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2026-02-20 01:00:41 -0500"
+    },
+    "done": true
+  },
+  "loot_n_explore:root": {
+    "criteria": {
+      "always": "2026-02-20 00:58:45 -0500"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/transportation/apricorn_boat": {
+    "criteria": {
+      "in_water": "2026-02-20 01:00:41 -0500"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/sea_foam_boat": {
+    "criteria": {
+      "in_water": "2026-02-20 01:00:41 -0500"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-02-20 00:58:45 -0500"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2026-02-20 00:58:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2026-02-20 01:00:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2026-02-20 01:00:41 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-02-20 00:58:45 -0500"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2026-02-20 00:58:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2026-02-20 00:59:23 -0500",
+      "minecraft:snowy_taiga": "2026-02-20 00:58:46 -0500"
+    },
+    "done": false
+  },
+  "candlelight:main/root": {
+    "criteria": {
+      "seeds": "2026-02-20 00:58:45 -0500"
+    },
+    "done": true
+  },
+  "tide:recipes/misc/bait": {
+    "criteria": {
+      "has_seeds": "2026-02-20 01:00:47 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

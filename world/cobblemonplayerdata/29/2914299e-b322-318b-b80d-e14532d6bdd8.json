@@ -1,0 +1,33 @@
+{
+  "uuid": "2914299e-b322-318b-b80d-e14532d6bdd8",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "73f3a792-2e9d-40a2-b9b5-e9136baef65c",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 2,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 6,
+    "totalPvPBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 5,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "bug": 1,
+      "water": 2,
+      "psychic": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:starly": 1,
+      "cobblemon:magikarp": 1,
+      "cobblemon:diglett": 1,
+      "cobblemon:joltik": 1
+    },
+    "aspectsCollected": {}
+  }
+}
